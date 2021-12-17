@@ -1,0 +1,19 @@
+#center {
+  text-align: center;
+}
+
+body {
+  background-color: coral;
+}
+
+.ResizeSmall {
+  background-color: pink;
+}
+
+.ResizeMiddle {
+  background-color: lightcoral;
+}
+
+.ResizeLarge {
+  background-color: lightsalmon;
+}
